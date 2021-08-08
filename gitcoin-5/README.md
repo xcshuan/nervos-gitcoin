@@ -1,4 +1,4 @@
-# Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+# Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 ## screenshot of deploy proxy contract
 ![deploy-proxy-contract](./deploy-proxy-contract.png)
 ## address of the ERC20 Proxy Contract
