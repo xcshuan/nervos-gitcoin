@@ -36,3 +36,4 @@ const CONTRACT_ABI = [{
   type: "function",
 },
 ]; // this should be an Array []
+```
